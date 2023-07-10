@@ -9,6 +9,6 @@ dependencies:
   - scipy
   - 'matplotlib < 3.0.0'
   - pygimli=1.4.3
-  - pip:
-    - git+https://github.com/simpeg/geoana
-    - git+https://github.com/geoscixyz/gpgLabs
+  #- pip:
+  #  - git+https://github.com/simpeg/geoana
+  #  - git+https://github.com/geoscixyz/gpgLabs
