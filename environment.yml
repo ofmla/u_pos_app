@@ -9,6 +9,7 @@ dependencies:
   - scipy
   - matplotlib=3.4.3
   - pygimli=1.4.3
+  - SimPEG
   - pip:
     - git+https://github.com/simpeg/geoana
     - git+https://github.com/geoscixyz/geosci-labs
