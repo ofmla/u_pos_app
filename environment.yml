@@ -11,4 +11,4 @@ dependencies:
   - pygimli=1.4.3
   - pip:
     - git+https://github.com/simpeg/geoana
-    - git+https://github.com/geoscixyz/gpgLabs
+    - git+https://github.com/geoscixyz/geosci-labs
