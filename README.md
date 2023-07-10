@@ -6,7 +6,7 @@
 
 **Rode os notebooks online:** Se você quiser rodar o notebook, você pode fazer isso agora:
 
-* Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ofmla/u_pos_app/HEAD?labpath=Metodo_eletrico.ipynb) (que lançará o notebook https://github.com/ofmla/u_pos_app/Metodo_eletrico.ipynb). Isso às vezes pode levar alguns minutos, então seja paciente ...
+* Clique em [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ofmla/u_pos_app/HEAD?labpath=Metodo_eletrico.ipynb) (que lançará o notebook [https://github.com/ofmla/u_pos_app/Metodo_eletrico.ipynb](https://github.com/ofmla/u_pos_app/blob/main/Metodo_eletrico.ipynb)). Isso às vezes pode levar alguns minutos, então seja paciente ...
 * Espere até que ele seja carregado
 * Divirta-se!
 
