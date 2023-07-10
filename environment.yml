@@ -7,7 +7,7 @@ channels:
 dependencies:
   - numpy
   - scipy
-  - 'matplotlib < 3.0.0'
+  - matplotlib=3.4.3
   - pygimli=1.4.3
   #- pip:
   #  - git+https://github.com/simpeg/geoana
