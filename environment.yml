@@ -3,7 +3,7 @@ name: gpgLabs-environment
 channels:
   - conda-forge
   - gimli
-  - defaults
+  #- defaults
 dependencies:
   - numpy
   - scipy
